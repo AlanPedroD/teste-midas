@@ -9,10 +9,15 @@ Este repositório contém a entrega do teste prático para a vaga de Web Designe
 
 - Primeiro rascunho de popup
 ![Progresso: Header inicial](./assets/imagens/primeiro-rascunho-de-proposta-popup.png)
+- segundo rascunho de popup
 ![Progresso: Header inicial](./assets/imagens/rascunho-melhorado-parcial.png)
+- Terceiro rascunho de popup
 ![Progresso: Header inicial](./assets/imagens/rascunho-melhorado-parcial-02.png)
+- Quarto rascunho de popup
 ![Progresso: Header inicial](./assets/imagens/rascunho-melhorado-parcial-03.png)
+- Quinto rascunho de popup
 ![Progresso: Header inicial](./assets/imagens/rascunho-melhorado-parcial-04.png)
+- Sexto rascunho de popup
 ![Progresso: Header inicial](./assets/imagens/rascunho-melhorado-parcial-05.png)
 
 
