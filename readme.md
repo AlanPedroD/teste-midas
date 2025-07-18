@@ -24,7 +24,7 @@ Este repositório contém a entrega do teste prático para a vaga de Web Designe
 
 ## Justificativas de redesenhar
 
-- Achei o redesnho com o visual um pouco mais amigável a primeira ista, além de melhora um pouco as cores
+- Achei o redesnho com o visual um pouco mais amigável a primeira vista, além de melhora um pouco a leitura a visualização e as cores, mas vale ressaltar que ainda precisa de melhorias.
 
 ---
 
