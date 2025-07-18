@@ -1,0 +1,33 @@
+# 🧪 Teste Prático – Web Designer Júnior | Midas Mais
+
+Este repositório contém a entrega do teste prático para a vaga de Web Designer Júnior
+
+
+## 🖼️ Imagens entregues
+
+**Exemplos de progresso**:
+
+- Primeiro rascunho de popup
+![Progresso: Header inicial](./assets/imagens/primeiro-rascunho-de-proposta-popup.png)
+![Progresso: Header inicial](./assets/imagens/rascunho-melhorado-parcial.png)
+![Progresso: Header inicial](./assets/imagens/rascunho-melhorado-parcial-02.png)
+![Progresso: Header inicial](./assets/imagens/rascunho-melhorado-parcial-03.png)
+![Progresso: Header inicial](./assets/imagens/rascunho-melhorado-parcial-04.png)
+![Progresso: Header inicial](./assets/imagens/rascunho-melhorado-parcial-05.png)
+
+
+---
+
+## 🎨 Decisões de Design
+
+- O Design original está bom, porém achei alguns pontos de melhoria como as cores das fontes e tamanhos que dificultam um pouco a leitura, além de algumas cores não ser tão agradável a primeira vista.
+
+## Justificativas de redesenhar
+
+- Achei o redesnho com o visual um pouco mais amigável a primeira ista, além de melhora um pouco as cores
+
+---
+
+## 🛠️ Ferramentas de captura
+
+- Gimp
