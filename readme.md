@@ -35,11 +35,12 @@ Este repositório contém a entrega do teste prático para a vaga de Web Designe
 
 ## Desafio 02 (Simulação landing Page)
 
-- Simulação 02 Landing page
+- Simulação 1 Landing page
 
 ![Progresso: Header inicial](./assets/imagens/simulacao-landing-page-midas.png)
 
 - Simulação 02 Landing page
+
 ![Progresso: Header inicial](./assets/imagens/simulacao-02-landing-page-midas.png)
 
 ## 🛠️ Ferramentas de captura
